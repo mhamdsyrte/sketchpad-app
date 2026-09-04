@@ -1,5 +1,5 @@
 [app]
-title = دفتر الرسم
+title = Sketchpad
 package.name = sketchpad
 package.domain = org.example
 
